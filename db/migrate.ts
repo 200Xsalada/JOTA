@@ -1,5 +1,3 @@
-Certifique-se de substituir apenas a parte dos scripts. Aqui está a versão completa (verifique o resto do conteúdo conforme seu projeto):
-
 {
 "name": "gemini-chatbot",
 "version": "1.0.0",
